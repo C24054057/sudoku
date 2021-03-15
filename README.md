@@ -1,3 +1,3 @@
 # sudoku
 ## compile and execute
->_python solve.py_
+###>python solve.py
